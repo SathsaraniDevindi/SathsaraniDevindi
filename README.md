@@ -7,7 +7,9 @@
 - 🔭 I’m currently working on Full-Stack Web Development
 - 🌱 I’m currently learning Image Processing
 - 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/sathsarani-perera/" rel="nofollow"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a>
+<p align="left" dir="auto">
+<a href="https://linkedin.com/in/sathsarani-perera/" rel="nofollow"><img align="center" src=""https://img.icons8.com/fluency/48/000000/linkedin.png" alt="sathsarani-perera" height="30" width="40" style="max-width: 100%;"></a>
+</p>
 
 Technologies
 
