@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sathsarani Devindi
+### Hi there 👋, I'm Sathsarani Perera
 
 <!--
 **SathsaraniDevindi/SathsaraniDevindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
