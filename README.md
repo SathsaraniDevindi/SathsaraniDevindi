@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Image Processing
 - 📫 How to reach me: 
 <p align="left" dir="auto">
-<a href="https://linkedin.com/in/sathsarani-perera/" rel="nofollow"><img align="center" src=""https://img.icons8.com/fluency/48/000000/linkedin.png" alt="sathsarani-perera" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/sathsarani-perera/" rel="nofollow"><img align="center" src=""https://img.icons8.com/fluency/48/000000/linkedin.png" alt="sathsarani-perera"></a>
 </p>
 
 Technologies
