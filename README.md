@@ -10,9 +10,6 @@
 
 Technologies
 
-Programming Languages: Java, C, Python
-Web Development: HTML, CSS, JavaScript, SpringBoot, ReactJS, NodeJS
-Tools & IDEs: Visual Studio Code, IntelliJ IDEA,SonarQube, Jira, Jenkins, ApacheJMeter, AWS, Spyder
-Databases: MySQL, MongoDB
+Java, C, Python, HTML, CSS, JavaScript, SpringBoot, ReactJS, NodeJS, Visual Studio Code, IntelliJ IDEA,SonarQube, Jira, Jenkins, ApacheJMeter, AWS, Spyder, MySQL, MongoDB
 
 
